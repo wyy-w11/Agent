@@ -1,0 +1,13 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/ venv/
+
+# ---- 中间态（留在本地，不推送） ----
+*.tmp
+output/
+tmp/
+
+# ---- 系统 ----
+Thumbs.db
+.DS_Store
